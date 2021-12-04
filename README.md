@@ -17,7 +17,7 @@ Em seguida o menu inicial irá abrir, a imagem abaixo mostra o menu.
 
 Se selecionado a opção **1** uma descrição de como utilizar e o código das cores será apresentado.
 
-![imagem como usar](https://github.com/LucasSargeir/Resolver_Cubo_Magico/blob/master/Imagens/mComo_usar.png)
+![imagem como usar](https://github.com/LucasSargeir/Resolver_Cubo_Magico/blob/master/Imagens/Como_usar.png)
 
 Agora que está familiarizado com os códigos das cores, basta escolher a opção **2** para entrar com as cores do seu cubo embaralhado. Depois de entrar com as cores o menu irá exibir o seu cubo, confira se está igual antes de mandar resolver, caso você tenha errado a entrada das cores basta selecionar para entrar com as cores novamente.
 
